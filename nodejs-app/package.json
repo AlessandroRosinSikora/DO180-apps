@@ -5,7 +5,7 @@
   "main": "server.js",
   "author": "Red Hat Training",
   "license": "ASL",
-  "dependencies": {
+  "dependencies": { "start"scripts": {"start": "node server.js"},
     "express": "4.18.2",
     "html-errors": "latest"
   }
